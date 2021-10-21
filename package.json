@@ -1,8 +1,8 @@
 {
   "name": "ts-restaurant-rts",
   "version": "0.1.0",
-  "netlify": "",
-  "git": "",
+  "netlify": "https://ts-rtk-restaurant-app.netlify.app/",
+  "git": "https://github.com/prabhat-cn/typescript-restaurant-rts.git",
   "tut": "https://youtu.be/jR4fagDcvrc",
   "uuid": "https://www.npmjs.com/package/uuidv4",
   "enter-submit": "https://stackoverflow.com/questions/33211672/how-to-submit-a-form-using-enter-key-in-react-js/33212911",
